@@ -1,1 +1,4 @@
 A bunch of dot files and basic ``life saver`` configurations 
+
+## Run
+``./dotfiles.sh``
