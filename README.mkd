@@ -1,1 +1,1 @@
-A bunch of dot files and basic ``life safer`` configurations 
+A bunch of dot files and basic ``life saver`` configurations 
