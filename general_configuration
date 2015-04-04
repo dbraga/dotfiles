@@ -1,0 +1,4 @@
+# General configuration
+USER="dbraga"
+INTELLIJVERSION="14"
+REPO_DIR=`pwd`
